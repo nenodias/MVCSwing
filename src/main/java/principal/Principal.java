@@ -32,7 +32,7 @@ public class Principal {
         controle.adicionarModelo(modelo);
         
         modelo.setNome("Juca");
-        modelo.setCpf("414.294.078-32");
+        modelo.setCpf("111.444.777-35");
         
         frame = new JFrame("Principal");
         frame.setBounds(0, 0, 400, 100);
